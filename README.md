@@ -6,4 +6,4 @@ SQLite_Login_App
   
 <img src="./image/main.png" width="40%"/>  
   
-<img src="./image/jj.png" width="40%"/> <img src="./image/register.png" width="40%"/>  
+<img src="./image/register.png" width="40%"/> <img src="./image/jj.png" width="40%"/>  
